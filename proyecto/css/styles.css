@@ -1,6 +1,14 @@
+/*  ------ Footer ------ */
 .footer{
   background: linear-gradient(90deg, #1c3643 0, #273b47 25%, #1e5372);
 }
 .col a{
   color: white;
+}
+/*  ------ NavBar ------ */
+.navbar-dark .navbar-nav .text-green{
+  color: greenyellow;
+}
+.navbar-brand{
+  gap: 10px;
 }
