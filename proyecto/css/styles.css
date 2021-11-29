@@ -45,6 +45,12 @@
   background-color: #6a8c2f;
   color: white;
 }
+/*    Place     */
+.place__image{
+  height: 100%;
+  object-fit: cover;
+  width: 100%;
+}
 @media screen and (max-width: 768px){
   .overlay__subtitle{
     display: none;
